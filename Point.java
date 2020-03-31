@@ -69,3 +69,7 @@ class Point {
 
 
 }
+class Canvas{
+	List<Point>;
+
+}
